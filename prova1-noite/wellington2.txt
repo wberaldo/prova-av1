@@ -1,0 +1,11 @@
+grepdata.txt
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+prova-1-Wellington.txt
+wellington08
+wellington1.txt
+wellington2.txt
+wellington3.txt

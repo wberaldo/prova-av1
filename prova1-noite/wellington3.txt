@@ -1,0 +1,8 @@
+./wellington1.txt
+./pasta2/2.txt
+./wellington08/wellington1.txt
+./wellington08/wellington3.txt
+./wellington08/wellington2.txt
+./wellington3.txt
+./pasta3/pasta31/3.txt
+./pasta1/1.txt
